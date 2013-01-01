@@ -1,0 +1,128 @@
+[2012-10-24 18:25:48][Msg] server start succ!
+[2012-10-24 18:25:48][Msg] the server is running
+[2012-10-24 18:28:48][Msg] server start succ!
+[2012-10-24 18:28:48][Msg] the server is running
+[2012-10-24 18:39:49][Msg] server start succ!
+[2012-10-24 18:39:49][Msg] the server is running
+[2012-10-24 18:39:49][Error] bind port error
+[2012-10-24 18:43:52][Msg] server start succ!
+[2012-10-24 18:43:52][Msg] the server is running
+[2012-10-24 18:43:52][Error] bind port error
+[2012-10-24 18:45:15][Msg] server start succ!
+[2012-10-24 18:45:15][Msg] the server is running
+[2012-10-24 18:45:45][Msg] server start succ!
+[2012-10-24 18:45:45][Msg] the server is running
+[2012-12-1 6:5:14][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:5:14][Error] BEV_EVENT_ERROR,error num:33
+[2012-12-1 6:8:11][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:17][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:25][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:25][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:25][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:30][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:30][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:30][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:35][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:35][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:35][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:40][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:40][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:40][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:45][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:45][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:45][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:50][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:50][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:50][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:8:55][Msg] fd:10 connection has been closed
+[2012-12-1 6:8:55][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:8:55][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:0][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:0][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:0][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:5][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:5][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:5][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:10][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:10][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:10][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:15][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:15][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:15][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:20][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:20][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:20][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:25][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:25][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:25][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:30][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:30][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:30][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:35][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:35][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:35][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:40][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:40][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:40][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:45][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:45][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:45][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:50][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:50][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:50][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:9:55][Msg] fd:10 connection has been closed
+[2012-12-1 6:9:55][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:9:55][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:2][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:2][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:2][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:7][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:7][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:7][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:12][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:12][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:12][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:17][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:17][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:17][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:22][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:22][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:22][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:27][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:27][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:27][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:32][Msg] fd:10 connection has been closed
+[2012-12-1 6:10:32][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:10:32][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:10:37][Msg] fd:10 connection has been closed
+[2012-12-1 6:14:21][Msg] The number of 0 client has connected to the svr
+[2012-12-1 6:14:21][Error] dealPkg fail,the value is:0
+
+[2012-12-1 6:14:29][Msg] fd:10 connection has been closed

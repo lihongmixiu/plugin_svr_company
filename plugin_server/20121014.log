@@ -1,0 +1,234 @@
+[2012-10-14 11:58:43][Msg] server start succ!
+[2012-10-14 11:58:43][Msg] the server is running
+[2012-10-14 11:59:8][Msg] The number of 0 client has connected to the svr
+[2012-10-14 11:59:8][Msg] receive pkg type is:14
+[2012-10-14 11:59:8][Msg] begin build reply pkg
+[2012-10-14 11:59:8][Msg] reply and the pkg len is:124
+[2012-10-14 12:1:41][Msg] fd:10 connection has been closed
+[2012-10-14 12:2:57][Msg] server start succ!
+[2012-10-14 12:2:57][Msg] the server is running
+[2012-10-14 12:3:7][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:3:7][Msg] receive pkg type is:14
+[2012-10-14 12:3:7][Msg] begin build reply pkg
+[2012-10-14 12:3:7][Msg] reply and the pkg len is:129
+[2012-10-14 12:3:53][Msg] fd:10 connection has been closed
+[2012-10-14 12:4:13][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:4:14][Msg] receive pkg type is:10
+[2012-10-14 12:4:14][Msg] begin build reply pkg
+[2012-10-14 12:4:14][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:4:14][Msg] reply and the pkg len is:28
+[2012-10-14 12:5:32][Msg] fd:10 connection has been closed
+[2012-10-14 12:6:21][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:6:22][Msg] receive pkg type is:10
+[2012-10-14 12:6:22][Msg] begin build reply pkg
+[2012-10-14 12:6:22][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:6:22][Msg] reply and the pkg len is:28
+[2012-10-14 12:6:33][Msg] fd:10 connection has been closed
+[2012-10-14 12:6:59][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:6:59][Msg] receive pkg type is:10
+[2012-10-14 12:6:59][Msg] begin build reply pkg
+[2012-10-14 12:6:59][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:6:59][Msg] reply and the pkg len is:28
+[2012-10-14 12:8:39][Msg] receive pkg type is:14
+[2012-10-14 12:8:39][Msg] begin build reply pkg
+[2012-10-14 12:8:39][Msg] reply and the pkg len is:129
+[2012-10-14 12:12:26][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-14 12:14:1][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:14:2][Msg] receive pkg type is:10
+[2012-10-14 12:14:2][Msg] begin build reply pkg
+[2012-10-14 12:14:2][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:14:2][Msg] reply and the pkg len is:28
+[2012-10-14 12:14:8][Msg] receive pkg type is:14
+[2012-10-14 12:14:8][Msg] begin build reply pkg
+[2012-10-14 12:14:8][Msg] reply and the pkg len is:129
+[2012-10-14 12:20:10][Msg] fd:10 connection has been closed
+[2012-10-14 12:21:17][Msg] server start succ!
+[2012-10-14 12:21:17][Msg] the server is running
+[2012-10-14 12:24:18][Msg] server start succ!
+[2012-10-14 12:24:18][Msg] the server is running
+[2012-10-14 12:25:2][Msg] server start succ!
+[2012-10-14 12:25:2][Msg] the server is running
+[2012-10-14 12:25:9][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:25:9][Msg] receive pkg type is:10
+[2012-10-14 12:25:9][Msg] begin build reply pkg
+[2012-10-14 12:25:9][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:25:14][Msg] reply and the pkg len is:28
+[2012-10-14 12:25:33][Msg] receive pkg type is:14
+[2012-10-14 12:25:33][Msg] begin build reply pkg
+[2012-10-14 12:38:43][Msg] reply and the pkg len is:129
+[2012-10-14 12:38:43][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:38:43][Msg] fd:14 connection has been closed
+[2012-10-14 12:38:43][Msg] receive pkg type is:10
+[2012-10-14 12:38:43][Msg] begin build reply pkg
+[2012-10-14 12:38:43][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:38:48][Msg] reply and the pkg len is:28
+[2012-10-14 12:38:52][Msg] receive pkg type is:14
+[2012-10-14 12:38:52][Msg] begin build reply pkg
+[2012-10-14 12:51:48][Msg] server start succ!
+[2012-10-14 12:51:48][Msg] the server is running
+[2012-10-14 12:51:56][Msg] The number of 0 client has connected to the svr
+[2012-10-14 12:51:56][Msg] receive pkg type is:10
+[2012-10-14 12:51:56][Msg] begin build reply pkg
+[2012-10-14 12:51:56][Msg] buildIsUpdatePkg begin
+[2012-10-14 12:51:56][Msg] reply and the pkg len is:28
+[2012-10-14 12:52:2][Msg] receive pkg type is:14
+[2012-10-14 12:52:2][Msg] begin build reply pkg
+[2012-10-14 12:52:2][Msg] reply and the pkg len is:129
+[2012-10-14 13:7:1][Msg] fd:10 connection has been closed
+[2012-10-14 13:7:29][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:7:29][Msg] receive pkg type is:10
+[2012-10-14 13:7:29][Msg] begin build reply pkg
+[2012-10-14 13:7:29][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:7:29][Msg] reply and the pkg len is:28
+[2012-10-14 13:7:32][Msg] receive pkg type is:14
+[2012-10-14 13:7:32][Msg] begin build reply pkg
+[2012-10-14 13:7:32][Msg] reply and the pkg len is:129
+[2012-10-14 13:7:39][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-14 13:7:46][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:7:46][Msg] receive pkg type is:10
+[2012-10-14 13:7:46][Msg] begin build reply pkg
+[2012-10-14 13:7:46][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:7:46][Msg] reply and the pkg len is:28
+[2012-10-14 13:7:48][Msg] receive pkg type is:14
+[2012-10-14 13:7:48][Msg] begin build reply pkg
+[2012-10-14 13:7:48][Msg] reply and the pkg len is:129
+[2012-10-14 13:20:39][Msg] server start succ!
+[2012-10-14 13:20:39][Msg] the server is running
+[2012-10-14 13:20:58][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:20:58][Msg] receive pkg type is:10
+[2012-10-14 13:20:58][Msg] begin build reply pkg
+[2012-10-14 13:20:58][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:20:58][Msg] reply and the pkg len is:28
+[2012-10-14 13:21:0][Msg] receive pkg type is:14
+[2012-10-14 13:21:0][Msg] begin build reply pkg
+[2012-10-14 13:21:0][Msg] reply and the pkg len is:129
+[2012-10-14 13:21:23][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-14 13:22:10][Msg] server start succ!
+[2012-10-14 13:22:10][Msg] the server is running
+[2012-10-14 13:22:17][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:22:18][Msg] receive pkg type is:10
+[2012-10-14 13:22:18][Msg] begin build reply pkg
+[2012-10-14 13:22:18][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:22:18][Msg] reply and the pkg len is:28
+[2012-10-14 13:22:27][Msg] receive pkg type is:14
+[2012-10-14 13:22:27][Msg] begin build reply pkg
+[2012-10-14 13:22:27][Msg] reply and the pkg len is:652
+[2012-10-14 13:29:11][Msg] server start succ!
+[2012-10-14 13:29:11][Msg] the server is running
+[2012-10-14 13:29:17][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:29:18][Msg] receive pkg type is:10
+[2012-10-14 13:29:18][Msg] begin build reply pkg
+[2012-10-14 13:29:18][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:29:18][Msg] reply and the pkg len is:28
+[2012-10-14 13:29:20][Msg] receive pkg type is:14
+[2012-10-14 13:29:20][Msg] begin build reply pkg
+[2012-10-14 13:29:20][Msg] reply and the pkg len is:652
+[2012-10-14 13:37:8][Msg] server start succ!
+[2012-10-14 13:37:8][Msg] the server is running
+[2012-10-14 13:37:8][Error] bind port error
+[2012-10-14 13:37:16][Msg] server start succ!
+[2012-10-14 13:37:16][Msg] the server is running
+[2012-10-14 13:37:51][Msg] The number of 0 client has connected to the svr
+[2012-10-14 13:37:51][Msg] receive pkg type is:10
+[2012-10-14 13:37:51][Msg] begin build reply pkg
+[2012-10-14 13:37:51][Msg] buildIsUpdatePkg begin
+[2012-10-14 13:37:51][Msg] reply and the pkg len is:28
+[2012-10-14 13:37:55][Msg] receive pkg type is:14
+[2012-10-14 13:37:55][Msg] begin build reply pkg
+[2012-10-14 13:37:55][Msg] reply and the pkg len is:652
+[2012-10-14 13:41:19][Msg] fd:10 connection has been closed
+[2012-10-14 17:25:23][Msg] server start succ!
+[2012-10-14 17:25:23][Msg] the server is running
+[2012-10-14 17:25:53][Msg] The number of 0 client has connected to the svr
+[2012-10-14 17:25:53][Msg] receive pkg type is:10
+[2012-10-14 17:25:53][Msg] begin build reply pkg
+[2012-10-14 17:25:53][Msg] buildIsUpdatePkg begin
+[2012-10-14 17:25:53][Msg] reply and the pkg len is:28
+[2012-10-14 17:26:4][Msg] receive pkg type is:14
+[2012-10-14 17:26:4][Msg] begin build reply pkg
+[2012-10-14 17:26:4][Msg] reply and the pkg len is:652
+[2012-10-14 17:28:7][Msg] fd:10 connection has been closed
+[2012-10-14 17:32:50][Msg] The number of 0 client has connected to the svr
+[2012-10-14 17:32:50][Msg] receive pkg type is:10
+[2012-10-14 17:32:50][Msg] begin build reply pkg
+[2012-10-14 17:32:50][Msg] buildIsUpdatePkg begin
+[2012-10-14 17:32:50][Msg] reply and the pkg len is:28
+[2012-10-14 17:32:52][Msg] receive pkg type is:14
+[2012-10-14 17:32:52][Msg] begin build reply pkg
+[2012-10-14 17:32:52][Msg] reply and the pkg len is:652
+[2012-10-14 17:33:40][Msg] fd:10 connection has been closed
+[2012-10-14 17:34:48][Msg] The number of 0 client has connected to the svr
+[2012-10-14 17:34:48][Msg] receive pkg type is:10
+[2012-10-14 17:34:48][Msg] begin build reply pkg
+[2012-10-14 17:34:48][Msg] buildIsUpdatePkg begin
+[2012-10-14 17:34:48][Msg] reply and the pkg len is:28
+[2012-10-14 17:34:50][Msg] receive pkg type is:14
+[2012-10-14 17:34:50][Msg] begin build reply pkg
+[2012-10-14 17:34:50][Msg] reply and the pkg len is:652
+[2012-10-14 17:51:52][Msg] server start succ!
+[2012-10-14 17:51:52][Msg] the server is running
+[2012-10-14 17:51:52][Error] bind port error
+[2012-10-14 17:52:2][Msg] server start succ!
+[2012-10-14 17:52:2][Msg] the server is running
+[2012-10-14 17:52:15][Msg] The number of 0 client has connected to the svr
+[2012-10-14 17:52:15][Msg] receive pkg type is:10
+[2012-10-14 17:52:15][Msg] begin build reply pkg
+[2012-10-14 17:52:15][Msg] buildIsUpdatePkg begin
+[2012-10-14 17:52:15][Msg] reply and the pkg len is:28
+[2012-10-14 17:52:32][Msg] receive pkg type is:14
+[2012-10-14 17:52:32][Msg] begin build reply pkg
+[2012-10-14 17:52:32][Msg] reply and the pkg len is:129
+[2012-10-14 17:53:33][Msg] fd:10 connection has been closed
+[2012-10-14 18:1:35][Msg] server start succ!
+[2012-10-14 18:1:35][Msg] the server is running
+[2012-10-14 18:1:45][Msg] The number of 0 client has connected to the svr
+[2012-10-14 18:1:45][Msg] receive pkg type is:10
+[2012-10-14 18:1:45][Msg] begin build reply pkg
+[2012-10-14 18:1:45][Msg] buildIsUpdatePkg begin
+[2012-10-14 18:1:45][Msg] reply and the pkg len is:28
+[2012-10-14 18:1:50][Msg] receive pkg type is:14
+[2012-10-14 18:1:50][Msg] begin build reply pkg
+[2012-10-14 18:1:50][Msg] reply and the pkg len is:52
+[2012-10-14 18:4:39][Msg] server start succ!
+[2012-10-14 18:4:39][Msg] the server is running
+[2012-10-14 18:4:50][Msg] The number of 0 client has connected to the svr
+[2012-10-14 18:4:50][Msg] receive pkg type is:10
+[2012-10-14 18:4:50][Msg] begin build reply pkg
+[2012-10-14 18:4:50][Msg] buildIsUpdatePkg begin
+[2012-10-14 18:4:50][Msg] reply and the pkg len is:28
+[2012-10-14 18:4:54][Msg] receive pkg type is:14
+[2012-10-14 18:4:54][Msg] begin build reply pkg
+[2012-10-14 18:4:54][Msg] reply and the pkg len is:129
+[2012-10-14 18:6:31][Msg] fd:10 connection has been closed
+[2012-10-14 18:11:7][Msg] The number of 0 client has connected to the svr
+[2012-10-14 18:11:7][Msg] receive pkg type is:10
+[2012-10-14 18:11:7][Msg] begin build reply pkg
+[2012-10-14 18:11:7][Msg] buildIsUpdatePkg begin
+[2012-10-14 18:11:7][Msg] reply and the pkg len is:28
+[2012-10-14 18:11:10][Msg] receive pkg type is:14
+[2012-10-14 18:11:10][Msg] begin build reply pkg
+[2012-10-14 18:11:10][Msg] reply and the pkg len is:129
+[2012-10-14 18:16:58][Msg] fd:10 connection has been closed
+[2012-10-14 18:59:35][Msg] server start succ!
+[2012-10-14 18:59:35][Msg] the server is running
+[2012-10-14 18:59:35][Error] bind port error
+[2012-10-14 19:0:1][Msg] server start succ!
+[2012-10-14 19:0:1][Msg] the server is running
+[2012-10-14 19:0:6][Msg] The number of 0 client has connected to the svr
+[2012-10-14 19:0:6][Msg] receive pkg type is:10
+[2012-10-14 19:0:6][Msg] begin build reply pkg
+[2012-10-14 19:0:6][Msg] buildIsUpdatePkg begin
+[2012-10-14 19:0:6][Msg] reply and the pkg len is:28
+[2012-10-14 19:0:9][Msg] receive pkg type is:14
+[2012-10-14 19:0:9][Msg] begin build reply pkg
+[2012-10-14 19:0:9][Msg] reply and the pkg len is:129
+[2012-10-14 19:7:19][Msg] server start succ!
+[2012-10-14 19:7:19][Msg] the server is running
+[2012-10-14 19:7:28][Msg] The number of 0 client has connected to the svr
+[2012-10-14 19:7:28][Msg] receive pkg type is:10
+[2012-10-14 19:7:28][Msg] begin build reply pkg
+[2012-10-14 19:7:28][Msg] buildIsUpdatePkg begin
+[2012-10-14 19:7:28][Msg] reply and the pkg len is:28
+[2012-10-14 19:7:30][Msg] receive pkg type is:14
+[2012-10-14 19:7:30][Msg] begin build reply pkg
+[2012-10-14 19:7:30][Msg] reply and the pkg len is:129

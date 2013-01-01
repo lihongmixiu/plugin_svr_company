@@ -1,0 +1,11 @@
+[2012-9-27 13:7:42][Msg] server start succ!test for log
+[2012-9-27 13:24:29][Msg] server start succ!test for log
+[2012-9-27 17:12:34][Msg] server start succ!test for log
+[2012-9-27 17:12:46][Error] BEV_EVENT_ERROR,error num:33
+[2012-9-27 17:15:50][Msg] fd:10connection has been closed
+[2012-9-27 17:21:24][Msg] fd:10connection has been closed
+[2012-9-27 18:25:55][Msg] server start succ!
+[2012-9-27 18:25:55][Msg] the server is running
+[2012-9-27 18:26:9][Msg] receive pkg type is:12
+[2012-9-27 18:26:9][Msg] begin build reply pkg
+[2012-9-27 18:26:9][Msg] reply and the pkg len is:101070

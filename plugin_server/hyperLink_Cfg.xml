@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<Global>
+	<LinkNum>8</LinkNum>
+	<Link id="1">
+		<LinkText>搜搜你懂的</LinkText>
+		<LinkValue>www.soso.com</LinkValue>
+	</Link>
+	<Link id="2">
+		<LinkText>百度你知不知道？</LinkText>
+		<LinkValue>http://zhidao.baidu.com/</LinkValue>
+	</Link>
+	<Link id="3">
+		<LinkText>谷歌很好用的</LinkText>
+		<LinkValue>www.google.com</LinkValue>
+	</Link>
+	<Link id="4">
+		<LinkText>创新的搜狗</LinkText>
+		<LinkValue>www.sougou.com</LinkValue>
+	</Link>
+    <Link id="5">
+		<LinkText>这样的360？</LinkText>
+		<LinkValue>www.360.com</LinkValue>
+	</Link>
+	<Link id="6">
+		<LinkText>腾讯门户网站</LinkText>
+		<LinkValue>www.qq.com</LinkValue>
+	</Link>
+	<Link id="7">
+		<LinkText>qq仙侠传官方网站</LinkText>
+		<LinkValue>http://xxz.qq.com/</LinkValue>
+	</Link>
+	<Link id="8">
+		<LinkText>斗战神官方网站</LinkText>
+		<LinkValue>http://asura.qq.com/</LinkValue>
+	</Link>
+
+</Global>

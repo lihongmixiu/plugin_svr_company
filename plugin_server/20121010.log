@@ -1,0 +1,83 @@
+[2012-10-10 18:38:8][Msg] server start succ!
+[2012-10-10 18:38:8][Msg] the server is running
+[2012-10-10 18:38:46][Msg] The number of 0 client has connected to the svr
+[2012-10-10 18:38:47][Msg] receive pkg type is:10
+[2012-10-10 18:38:47][Msg] begin build reply pkg
+[2012-10-10 18:38:47][Msg] buildIsUpdatePkg begin
+[2012-10-10 18:38:47][Msg] reply and the pkg len is:28
+[2012-10-10 18:39:2][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-10 18:40:6][Msg] The number of 0 client has connected to the svr
+[2012-10-10 18:40:19][Msg] receive pkg type is:12
+[2012-10-10 18:40:19][Msg] begin build reply pkg
+[2012-10-10 18:40:19][Msg] reply and the pkg len is:0
+[2012-10-10 18:50:34][Msg] server start succ!
+[2012-10-10 18:50:34][Msg] the server is running
+[2012-10-10 18:50:58][Msg] The number of 0 client has connected to the svr
+[2012-10-10 18:51:5][Msg] receive pkg type is:12
+[2012-10-10 18:51:5][Msg] begin build reply pkg
+[2012-10-10 19:1:40][Msg] server start succ!
+[2012-10-10 19:1:40][Msg] the server is running
+[2012-10-10 19:1:44][Msg] The number of 0 client has connected to the svr
+[2012-10-10 19:1:50][Msg] receive pkg type is:12
+[2012-10-10 19:1:50][Msg] begin build reply pkg
+[2012-10-10 19:6:53][Msg] server start succ!
+[2012-10-10 19:6:53][Msg] the server is running
+[2012-10-10 19:6:58][Msg] The number of 0 client has connected to the svr
+[2012-10-10 19:7:0][Msg] receive pkg type is:12
+[2012-10-10 19:7:0][Msg] begin build reply pkg
+[2012-10-10 19:12:3][Msg] server start succ!
+[2012-10-10 19:12:3][Msg] the server is running
+[2012-10-10 19:12:11][Msg] The number of 0 client has connected to the svr
+[2012-10-10 19:12:22][Msg] receive pkg type is:12
+[2012-10-10 19:12:22][Msg] begin build reply pkg
+[2012-10-10 19:18:20][Msg] server start succ!
+[2012-10-10 19:18:20][Msg] the server is running
+[2012-10-10 19:18:25][Msg] The number of 0 client has connected to the svr
+[2012-10-10 19:18:28][Msg] receive pkg type is:12
+[2012-10-10 19:18:28][Msg] begin build reply pkg
+[2012-10-10 19:19:59][Msg] server start succ!
+[2012-10-10 19:19:59][Msg] the server is running
+[2012-10-10 19:20:3][Msg] The number of 0 client has connected to the svr
+[2012-10-10 19:20:5][Msg] receive pkg type is:12
+[2012-10-10 19:20:5][Msg] begin build reply pkg
+[2012-10-10 22:45:34][Msg] server start succ!
+[2012-10-10 22:45:34][Msg] the server is running
+[2012-10-10 22:45:51][Msg] The number of 0 client has connected to the svr
+[2012-10-10 22:45:53][Msg] receive pkg type is:12
+[2012-10-10 22:45:53][Msg] begin build reply pkg
+[2012-10-10 22:55:52][Msg] server start succ!
+[2012-10-10 22:55:52][Msg] the server is running
+[2012-10-10 22:55:57][Msg] The number of 0 client has connected to the svr
+[2012-10-10 22:55:58][Msg] receive pkg type is:12
+[2012-10-10 22:55:58][Msg] begin build reply pkg
+[2012-10-10 22:57:37][Msg] server start succ!
+[2012-10-10 22:57:37][Msg] the server is running
+[2012-10-10 22:57:41][Msg] The number of 0 client has connected to the svr
+[2012-10-10 22:57:45][Msg] receive pkg type is:12
+[2012-10-10 22:57:45][Msg] begin build reply pkg
+[2012-10-10 23:2:1][Msg] server start succ!
+[2012-10-10 23:2:1][Msg] the server is running
+[2012-10-10 23:2:5][Msg] The number of 0 client has connected to the svr
+[2012-10-10 23:2:5][Msg] receive pkg type is:12
+[2012-10-10 23:2:5][Msg] begin build reply pkg
+[2012-10-10 23:7:59][Msg] server start succ!
+[2012-10-10 23:7:59][Msg] the server is running
+[2012-10-10 23:7:59][Error] bind port error
+[2012-10-10 23:8:54][Msg] server start succ!
+[2012-10-10 23:8:54][Msg] the server is running
+[2012-10-10 23:9:0][Msg] The number of 0 client has connected to the svr
+[2012-10-10 23:9:0][Msg] receive pkg type is:12
+[2012-10-10 23:9:0][Msg] begin build reply pkg
+[2012-10-10 23:11:36][Msg] server start succ!
+[2012-10-10 23:11:36][Msg] the server is running
+[2012-10-10 23:11:36][Error] bind port error
+[2012-10-10 23:12:4][Msg] server start succ!
+[2012-10-10 23:12:4][Msg] the server is running
+[2012-10-10 23:12:8][Msg] The number of 0 client has connected to the svr
+[2012-10-10 23:12:8][Msg] receive pkg type is:12
+[2012-10-10 23:12:8][Msg] begin build reply pkg
+[2012-10-10 23:26:27][Msg] server start succ!
+[2012-10-10 23:26:27][Msg] the server is running
+[2012-10-10 23:26:31][Msg] The number of 0 client has connected to the svr
+[2012-10-10 23:26:32][Msg] receive pkg type is:12
+[2012-10-10 23:26:32][Msg] begin build reply pkg

@@ -1,0 +1,56 @@
+[2012-10-19 16:50:58][Msg] server start succ!
+[2012-10-19 16:50:58][Msg] the server is running
+[2012-10-19 16:52:18][Msg] The number of 0 client has connected to the svr
+[2012-10-19 16:52:19][Msg] receive pkg type is:10
+[2012-10-19 16:52:19][Msg] begin build reply pkg
+[2012-10-19 16:52:19][Msg] buildIsUpdatePkg begin
+[2012-10-19 16:52:19][Msg] reply and the pkg len is:28
+[2012-10-19 16:52:28][Msg] receive pkg type is:14
+[2012-10-19 16:52:28][Msg] begin build reply pkg
+[2012-10-19 16:52:28][Msg] reply and the pkg len is:336
+[2012-10-19 17:1:35][Msg] fd:10 connection has been closed
+[2012-10-19 17:17:34][Msg] The number of 0 client has connected to the svr
+[2012-10-19 17:17:34][Msg] receive pkg type is:10
+[2012-10-19 17:17:34][Msg] begin build reply pkg
+[2012-10-19 17:17:34][Msg] buildIsUpdatePkg begin
+[2012-10-19 17:17:34][Msg] reply and the pkg len is:28
+[2012-10-19 17:17:37][Msg] receive pkg type is:14
+[2012-10-19 17:17:37][Msg] begin build reply pkg
+[2012-10-19 17:17:37][Msg] reply and the pkg len is:336
+[2012-10-19 17:17:47][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-19 17:18:27][Msg] The number of 0 client has connected to the svr
+[2012-10-19 17:18:27][Msg] receive pkg type is:10
+[2012-10-19 17:18:27][Msg] begin build reply pkg
+[2012-10-19 17:18:27][Msg] buildIsUpdatePkg begin
+[2012-10-19 17:18:27][Msg] reply and the pkg len is:28
+[2012-10-19 17:18:31][Msg] receive pkg type is:14
+[2012-10-19 17:18:31][Msg] begin build reply pkg
+[2012-10-19 17:18:31][Msg] reply and the pkg len is:336
+[2012-10-19 17:18:50][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-19 17:20:36][Msg] The number of 0 client has connected to the svr
+[2012-10-19 17:20:36][Msg] receive pkg type is:10
+[2012-10-19 17:20:36][Msg] begin build reply pkg
+[2012-10-19 17:20:36][Msg] buildIsUpdatePkg begin
+[2012-10-19 17:20:36][Msg] reply and the pkg len is:28
+[2012-10-19 17:20:37][Msg] receive pkg type is:14
+[2012-10-19 17:20:37][Msg] begin build reply pkg
+[2012-10-19 17:20:37][Msg] reply and the pkg len is:336
+[2012-10-19 17:20:57][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-19 17:21:50][Msg] The number of 0 client has connected to the svr
+[2012-10-19 17:21:50][Msg] receive pkg type is:10
+[2012-10-19 17:21:50][Msg] begin build reply pkg
+[2012-10-19 17:21:50][Msg] buildIsUpdatePkg begin
+[2012-10-19 17:21:50][Msg] reply and the pkg len is:28
+[2012-10-19 17:21:53][Msg] receive pkg type is:14
+[2012-10-19 17:21:53][Msg] begin build reply pkg
+[2012-10-19 17:21:53][Msg] reply and the pkg len is:336
+[2012-10-19 17:22:4][Error] BEV_EVENT_ERROR,error num:33
+[2012-10-19 17:23:59][Msg] The number of 0 client has connected to the svr
+[2012-10-19 17:23:59][Msg] receive pkg type is:10
+[2012-10-19 17:23:59][Msg] begin build reply pkg
+[2012-10-19 17:23:59][Msg] buildIsUpdatePkg begin
+[2012-10-19 17:23:59][Msg] reply and the pkg len is:28
+[2012-10-19 17:24:2][Msg] receive pkg type is:14
+[2012-10-19 17:24:2][Msg] begin build reply pkg
+[2012-10-19 17:24:2][Msg] reply and the pkg len is:336
+[2012-10-19 17:26:21][Error] BEV_EVENT_ERROR,error num:33

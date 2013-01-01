@@ -1,0 +1,13 @@
+[debug] server start succ!
+[debug] server start succ!
+[debug] server start succ!
+[debug] server start succ!
+[debug] server start succ!
+[debug] server start succ!
+[debug] server start succ!
+[msg] hello ,for test
+
+[msg] hello ,for testfor string
+
+[msg] hello ,for test121
+
