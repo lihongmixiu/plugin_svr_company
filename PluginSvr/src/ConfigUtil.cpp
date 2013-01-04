@@ -35,6 +35,7 @@ int ConfigUtil::ReadCfg()
 	}
 	const char* serverSectionName = "ServerInfo";
 	const char* logSectionName = "LogInfo";
+	const char* versionSectionName = "VersionInfo";
 	if(!configFile->GetItemValue(serverSectionName,"ServerIp",serverIp,16,"0.0.0.0"))
 	{
 		TRACESVR(GG_ERROR,"get server ip info failed!");
@@ -59,6 +60,12 @@ int ConfigUtil::ReadCfg()
 		return -1;
 	}
 	TRACESVR(GG_DEBUG,"log level is:%d",logLevel);
+	if(!configFile->GetItemValue(versionSectionName,"ServerVersion",serverVersion))
+	{
+		TRACESVR(GG_ERROR,"get server version info failed!");
+		return -1;
+	}
+	TRACESVR(GG_DEBUG,"server version is :%d",serverVersion);
 	return ret;
 }
 const char* ConfigUtil::GetServerIp()
@@ -79,4 +86,9 @@ const int ConfigUtil::GetServerPort()
 const int ConfigUtil::GetLogLevel()
 {
 	return logLevel;
+}
+
+const int ConfigUtil::GetServerVersion()
+{
+	return serverVersion;
 }

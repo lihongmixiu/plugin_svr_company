@@ -13,12 +13,14 @@ class ConfigUtil
 		const char* GetLogDir();
 		const int GetServerPort();
 		const int GetLogLevel();
+		const int GetServerVersion();
 	private:
 		char cfgFileName[128];
 		char serverIp[16];
 		int serverPort;
 		char logDir[128];
 		int logLevel;
+		int serverVersion;
 		CConfigFile *configFile;
 };
 #define CONFIG_UTIL Singleton<ConfigUtil>::instance()

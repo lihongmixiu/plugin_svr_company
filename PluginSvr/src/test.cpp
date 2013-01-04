@@ -19,6 +19,8 @@
 #include "LogWrapper.h"
 #include "Config.h"
 #include "ConfigUtil.h"
+#include "Proto.h"
+#include "PkgUtil.h"
 //log and config
 int Initialize()
 {
@@ -33,7 +35,45 @@ int Initialize()
 }
 void Do_Read(struct bufferevent *bev,void *ctx)
 {
+	printf("readcb start\n");
 	TRACESVR(GG_DEBUG,"do read call back begin!");
+    struct evbuffer *input, *output;
+	input = bufferevent_get_input(bev);
+    size_t len = evbuffer_get_length(input);
+	printf("len is:%d\n",len);	
+	output = bufferevent_get_output(bev);
+	char *inputBuff = (char*)malloc(MAX_SVR_PKG_LENGTH);
+	if(inputBuff == NULL)
+	{
+	   TRACESVR(GG_ERROR,"input buff malloc fail!");
+	   return;
+	}
+	if(evbuffer_remove(input,inputBuff,len)<0)
+	{
+	   TRACESVR(GG_ERROR,"evbuffer remove failed!");
+	   return;
+    }
+    PkgUtil pkgUtil;
+	int pkgType = 0;
+	if(( pkgUtil.ProcessClientPkg(inputBuff,len,pkgType))<0)
+	{
+	   TRACESVR(GG_ERROR,"deal pkg fail,the value is:%d",pkgType);
+	   return;
+	}
+	char* replyPkg =(char*)malloc(MAX_SVR_PKG_LENGTH);
+	size_t replyPkgLen = 0;
+	if(replyPkg == NULL)
+	{
+	   TRACESVR(GG_ERROR,"reply pkg malloc fail!");	
+	   return;
+	}
+	memset(replyPkg,0,MAX_SVR_PKG_LENGTH);
+	pkgUtil.BuildPkgByType(pkgType,replyPkg,replyPkgLen);
+	evbuffer_add(output,(void*)replyPkg,replyPkgLen);/*send the reply pkg*/
+	size_t outputLen = evbuffer_get_length(output);
+    TRACESVR(GG_DEBUG,"reply and the pkg len is:%d",outputLen);	
+	free(replyPkg);
+	free(inputBuff);	   
 }
 
 void Do_Write(struct bufferevent *bev,void *ctx)
@@ -89,7 +129,7 @@ void Do_Accept(evutil_socket_t listener, short event, void *arg)
 	    bufferevent_setcb(bev,Do_Read, Do_Write, Do_Error, NULL);
 	    bufferevent_setwatermark(bev, EV_READ,0,4096 );
 	    bufferevent_setwatermark(bev, EV_WRITE,1, 10);
-	     bufferevent_enable(bev, EV_READ|EV_WRITE);
+	    bufferevent_enable(bev, EV_READ|EV_WRITE);
 	}
 }
 
@@ -135,9 +175,66 @@ void  Run()
 	/*the event loop*/
 	event_base_dispatch(base);/*how to control stop*/
 
-}	
+}
+
+void ignore_pipe_new()
+{
+  struct sigaction sig;
+
+  sig.sa_handler = SIG_IGN;
+  sig.sa_flags = 0;
+  sigemptyset(&sig.sa_mask);
+  sigaction(SIGPIPE,&sig,NULL);
+}
+
+void InitDaemon(void)
+{
+	pid_t pid;
+
+	if ((pid = fork()) != 0)
+		exit(0);
+
+	setsid();
+
+	signal(SIGINT,  SIG_IGN);
+	signal(SIGHUP,  SIG_IGN);
+	signal(SIGQUIT, SIG_IGN);
+	signal(SIGPIPE, SIG_IGN);
+	signal(SIGTTOU, SIG_IGN);
+	signal(SIGTTIN, SIG_IGN);
+	signal(SIGCHLD, SIG_IGN);
+	signal(SIGTERM, SIG_IGN);
+	signal(SIGHUP,  SIG_IGN);
+	ignore_pipe_new();
+
+	if ((pid = fork()) != 0)
+		exit(0);
+
+	umask(0);
+}
+
 int main(int argc,char **argv)
 {
+	bool daemon = true;//if is background run
+	if(argc > 1)
+	{
+		for(int i = 0;i < argc;i++)
+		{
+			if(0 == strcasecmp(argv[i],"-d"))
+			{
+				daemon = false;
+			}
+		}
+		if(0 == strcasecmp(argv[1],"-v"))
+		{
+			printf("******no version info now,heihei******");
+			exit(0);
+		}
+	}
+	if(daemon)
+	{
+		InitDaemon();
+	}
 	Initialize();
 	Run();
 	return 0;
