@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1357386225 source:e:\codeblocks_project\test4pluginsvr\thread.cpp
+	"Thread.h"
+	<process.h>
+
+1357387898 e:\codeblocks_project\test4pluginsvr\thread.h
+	<windows.h>
+
+1357378209 source:e:\codeblocks_project\test4pluginsvr\threadwrapper.cpp
+	"ThreadWrapper.h"
+	"SocketUtil.h"
+	<iostream>
+
+1357377826 e:\codeblocks_project\test4pluginsvr\threadwrapper.h
+	"thread.h"
+
+1357384385 e:\codeblocks_project\test4pluginsvr\socketutil.h
+	<winsock2.h>
+
+1357388282 source:e:\codeblocks_project\test4pluginsvr\main.cpp
+	<iostream>
+	"ThreadWrapper.h"
+
+1357387787 source:e:\codeblocks_project\test4pluginsvr\socketutil.cpp
+	"SocketUtil.h"
+	<iostream>
+

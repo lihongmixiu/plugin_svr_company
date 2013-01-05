@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="SocketUtil.cpp" open="1" top="1" tabpos="7">
+		<Cursor position="119" topLine="0" />
+	</File>
+	<File name="Thread.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="184" topLine="0" />
+	</File>
+	<File name="Thread.h" open="1" top="0" tabpos="2">
+		<Cursor position="256" topLine="0" />
+	</File>
+	<File name="ThreadWrapper.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="148" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
